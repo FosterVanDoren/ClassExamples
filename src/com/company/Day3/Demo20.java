@@ -1,6 +1,5 @@
 package com.company.Day3;
 
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 
 class InsufficientFundException extends Exception{
     public InsufficientFundException(){
