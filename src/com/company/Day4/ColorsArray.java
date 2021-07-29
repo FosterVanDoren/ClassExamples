@@ -49,7 +49,7 @@ public class ColorsArray {
 
         //9. Write a Java program to copy one array list into another.
         ArrayList<String> newColors = new ArrayList<>();
-        newColors = colors;
+        newColors.addAll(colors);
 
         System.out.println(newColors);
 
