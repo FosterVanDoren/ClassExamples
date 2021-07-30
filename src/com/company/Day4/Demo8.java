@@ -55,7 +55,7 @@ public class Demo8 {
         }
 
         for(int i=names.size() -1; i>0;i--){
-            //System.out.println(names.get(i));
+            System.out.println(names.get(i));
         }
     }
 }
