@@ -13,6 +13,7 @@ public class HashSetAssignment {
         set.add("Watson");
         set.add("Mark");
 
+
         //2. Write a Java program to iterate through all elements in a hash list.
         for(String name: set){
             System.out.println(name);
